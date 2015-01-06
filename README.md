@@ -1,4 +1,4 @@
 mixChart
 ========
 
-a chart used raphaeljs
+a chart lib based on Raphaeljs
